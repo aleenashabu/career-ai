@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Full Stack Web Developer",
+    "description": "Develop both client-side and server-side applications using modern frameworks.",
+    "averageSalary": "6-12 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["HTML", "CSS", "JavaScript", "React.js", "Node.js", "MongoDB"],
+    "companies": ["Google", "Microsoft", "Meta", "Infosys", "TCS"],
+    "jobRoles": ["Frontend Developer", "Backend Developer", "Full Stack Engineer"],
+    "status": "Active"
+  },
+  {
+    "title": "Frontend Developer",
+    "description": "Build responsive and interactive user interfaces for web applications.",
+    "averageSalary": "5-10 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["HTML", "CSS", "JavaScript", "React.js", "UI/UX"],
+    "companies": ["Adobe", "Meta", "Google", "Zoho"],
+    "jobRoles": ["UI Developer", "React Developer", "Web Designer"],
+    "status": "Active"
+  },
+  {
+    "title": "Backend Developer",
+    "description": "Design and develop server-side logic, APIs, and database integrations.",
+    "averageSalary": "6-12 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["Node.js", "Express.js", "MongoDB", "SQL", "REST APIs"],
+    "companies": ["Amazon", "Google", "Microsoft", "Infosys"],
+    "jobRoles": ["Backend Engineer", "API Developer", "Database Developer"],
+    "status": "Active"
+  },
+  {
+    "title": "Mobile App Developer",
+    "description": "Develop mobile applications for Android and iOS platforms.",
+    "averageSalary": "5-11 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["Flutter", "React Native", "Java", "Kotlin", "Swift"],
+    "companies": ["Google", "Apple", "Samsung", "Infosys"],
+    "jobRoles": ["Android Developer", "iOS Developer", "Mobile App Engineer"],
+    "status": "Active"
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Analyze and interpret complex data using statistical and ML techniques.",
+    "averageSalary": "8-18 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["Python", "Machine Learning", "Deep Learning", "Statistics", "Data Visualization"],
+    "companies": ["IBM", "Google", "Microsoft", "Accenture"],
+    "jobRoles": ["ML Engineer", "Data Analyst", "AI Researcher"],
+    "status": "Active"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Design and deploy machine learning models for real-world applications.",
+    "averageSalary": "8-16 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["Python", "Scikit-Learn", "TensorFlow", "Data Preprocessing", "NLP"],
+    "companies": ["OpenAI", "NVIDIA", "Google", "Amazon"],
+    "jobRoles": ["ML Engineer", "AI Developer", "Data Engineer"],
+    "status": "Active"
+  },
+  {
+    "title": "AI Engineer",
+    "description": "Develop artificial intelligence solutions using modern frameworks.",
+    "averageSalary": "10-20 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["Deep Learning", "NLP", "LLMs", "Computer Vision"],
+    "companies": ["OpenAI", "Google DeepMind", "Meta AI", "Microsoft"],
+    "jobRoles": ["AI Research Engineer", "Computer Vision Engineer", "NLP Engineer"],
+    "status": "Active"
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Extract insights from structured and unstructured data.",
+    "averageSalary": "5-9 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "medium",
+    "requiredSkills": ["Python", "SQL", "Excel", "Power BI", "Data Visualization"],
+    "companies": ["Deloitte", "Accenture", "Infosys", "Wipro"],
+    "jobRoles": ["Business Analyst", "BI Developer", "Reporting Analyst"],
+    "status": "Active"
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "Manage and deploy applications on cloud platforms like AWS, Azure, and GCP.",
+    "averageSalary": "7-14 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
+    "companies": ["Amazon", "Google", "Microsoft", "IBM"],
+    "jobRoles": ["Cloud Architect", "Cloud Administrator", "Cloud DevOps Engineer"],
+    "status": "Active"
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "Automate CI/CD pipelines and manage containerized applications.",
+    "averageSalary": "8-15 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["Docker", "Kubernetes", "Jenkins", "CI/CD", "Cloud"],
+    "companies": ["Red Hat", "Microsoft", "Amazon", "Google"],
+    "jobRoles": ["Site Reliability Engineer", "DevOps Specialist", "Cloud Engineer"],
+    "status": "Active"
+  },
+  {
+    "title": "Cybersecurity Engineer",
+    "description": "Secure networks, systems, and applications against cyber threats.",
+    "averageSalary": "7-14 LPA",
+    "salaryTrend": "increasing",
+    "futureScope": "high",
+    "requiredSkills": ["Ethical Hacking", "Network Security", "Firewalls", "SIEM"],
+    "companies": ["Cisco", "Palo Alto Networks", "IBM", "Accenture"],
+    "jobRoles": ["Security Analyst", "Penetration Tester", "SOC Analyst"],
+    "status": "Active"
+  },
+  {
+    "title": "Software Engineer",
+    "description": "Design, develop, and maintain software applications.",
+    "averageSalary": "6-12 LPA",
+    "salaryTrend": "stable",
+    "futureScope": "high",
+    "requiredSkills": ["Java", "C++", "Python", "OOPs", "Algorithms"],
+    "companies": ["Google", "Microsoft", "Amazon", "Oracle"],
+    "jobRoles": ["Application Developer", "System Engineer", "Software Developer"],
+    "status": "Active"
+  }
+]
